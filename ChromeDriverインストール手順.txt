@@ -1,0 +1,15 @@
+デスクトップ上に[Selenium]という名前でフォルダを作成する
+
+下記サイトでドライバーをダウンロードする
+
+ChroemwDriverダウンロードページ
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+今使っているChromeに対応するバージョンのDriverをダウンロードする。
+
+.zip形式なので解凍する
+
+デスクトップに作った[Selenium]フォルダに、
+解凍して出てきたchromedriverを置く。
+
+*macの場合は/Users/*ユーザー名*/Desktop/Selenium/chromedriver
